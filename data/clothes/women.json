@@ -1,1 +1,25 @@
-
+{
+  "category": {"id": "women", "name": "زنانه"},
+  "subFilters": [
+    {"id": "all", "name": "همه"},
+    {"id": "traditional", "name": "سنتی"},
+    {"id": "modern", "name": "مدرن"},
+    {"id": "shawl", "name": "شال"}
+  ],
+  "products": [
+    {"id":1001, "sub":"traditional", "name":"پیراهن افغانی گلدوزی‌شده", "desc":"پیراهن سنتی افغانی با گلدوزی دست‌دوز", "price":1200, "old":1800, "rating":4.8, "badge":"-۳۳٪", "sizes":["S","M","L","XL"], "colors":["#8B0000","#1a3a5c","#2F4F4F"]},
+    {"id":1002, "sub":"traditional", "name":"پیراهن کمیز افغانی", "desc":"پیراهن کمیز سنتی با طراحی زیبا", "price":1500, "old":0, "rating":4.7, "badge":"جدید", "sizes":["S","M","L","XL"], "colors":["#1a3a5c","#4B0082"]},
+    {"id":1003, "sub":"traditional", "name":"شلوار قندغری", "desc":"شلوار سنتی قندغری با گلدوزی", "price":850, "old":1200, "rating":4.6, "badge":"-۲۹٪", "sizes":["S","M","L","XL"], "colors":["#8B0000","#1a3a5c"]},
+    {"id":1004, "sub":"traditional", "name":"چادر نماز گلدار", "desc":"چادر نماز یک تکه با گل‌های زیبا", "price":900, "old":1200, "rating":4.7, "badge":"-۲۵٪", "sizes":["Free"], "colors":["#ffffff","#FFB6C1"]},
+    {"id":1005, "sub":"traditional", "name":"چادر رنگی کوکی", "desc":"چادر کوکی رنگارنگ", "price":700, "old":0, "rating":4.5, "badge":"", "sizes":["Free"], "colors":["#FFD700","#FF69B4"]},
+    {"id":1006, "sub":"shawl", "name":"شال ابریشم هراتی", "desc":"شال ابریشم اصل هرات", "price":2000, "old":2600, "rating":4.9, "badge":"-۲۳٪", "sizes":["Free"], "colors":["#8B0000","#FFD700"]},
+    {"id":1007, "sub":"shawl", "name":"شال پشمی زمستانی", "desc":"شال پشمی گرم", "price":1200, "old":0, "rating":4.6, "badge":"", "sizes":["Free"], "colors":["#1a3a5c","#8B0000"]},
+    {"id":1008, "sub":"shawl", "name":"شال نخی تابستانی", "desc":"شال نخی سبک", "price":600, "old":800, "rating":4.4, "badge":"-۲۵٪", "sizes":["Free"], "colors":["#ffffff","#FFB6C1"]},
+    {"id":1009, "sub":"modern", "name":"تونیک زنانه مدرن", "desc":"تونیک مدرن با طراحی ساده", "price":1000, "old":1300, "rating":4.6, "badge":"-۲۳٪", "sizes":["S","M","L","XL"], "colors":["#000000","#ffffff"]},
+    {"id":1010, "sub":"modern", "name":"مانتو زنانه", "desc":"مانتو با پارچه باکیفیت", "price":1800, "old":0, "rating":4.7, "badge":"جدید", "sizes":["S","M","L","XL"], "colors":["#000000","#2F4F4F"]},
+    {"id":1011, "sub":"modern", "name":"دامن زنانه پلیسه", "desc":"دامن پلیسه با طراحی مدرن", "price":900, "old":1200, "rating":4.5, "badge":"-۲۵٪", "sizes":["S","M","L"], "colors":["#000000","#8B0000"]},
+    {"id":1012, "sub":"modern", "name":"کاپشن زنانه زمستانی", "desc":"کاپشن گرم با پارچه ضدآب", "price":2200, "old":2800, "rating":4.8, "badge":"-۲۱٪", "sizes":["S","M","L","XL"], "colors":["#000000","#1a3a5c"]},
+    {"id":1013, "sub":"modern", "name":"بلوز زنانه حریر", "desc":"بلوز حریر شیک", "price":1100, "old":0, "rating":4.6, "badge":"", "sizes":["S","M","L","XL"], "colors":["#ffffff","#FFB6C1"]},
+    {"id":1014, "sub":"modern", "name":"جین زنانه استرچ", "desc":"جین استرچ با کیفیت بالا", "price":1300, "old":1600, "rating":4.7, "badge":"-۱۸٪", "sizes":["S","M","L","XL"], "colors":["#1a3a5c","#000000"]}
+  ]
+}
